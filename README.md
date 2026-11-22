@@ -6,7 +6,7 @@
 
 The catalogue of my plugins for Claude: the Claude app (web and desktop), Cowork and [Claude Code](https://code.claude.com). Adding it installs nothing: you then pick the plugins you want.
 
-## Install in the Claude app
+## Install in the Claude app (Pro plan or above)
 
 1. Open **Plugins** in the left sidebar, click **Add**, then **Add marketplace**.
 2. Enter `RandomFab/claude-plugins` and confirm.

@@ -13,9 +13,9 @@
       "source": {
         "source": "github",
         "repo": "RandomFab/meal-planner",
-        "ref": "v1.0.0-beta.4"
+        "ref": "v1.0.0-beta.5"
       },
-      "version": "1.0.0-beta.4",
+      "version": "1.0.0-beta.5",
       "description": "Plans your household's meals in your own Notion: weekly menu, recipes from a photo or a link, shopping list by store, daily brief, and a planner that learns what you like.",
       "author": {
         "name": "Fabien Bardouil",
