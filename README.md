@@ -4,9 +4,17 @@
 
 # Claude plugins by RandomFab
 
-The catalogue of my plugins for [Claude Code](https://code.claude.com). Adding it installs nothing: you then pick the plugins you want.
+The catalogue of my plugins for Claude: the Claude app (web and desktop), Cowork and [Claude Code](https://code.claude.com). Adding it installs nothing: you then pick the plugins you want.
 
-## Install
+## Install in the Claude app
+
+1. Open **Plugins** in the left sidebar, click **Add**, then **Add marketplace**.
+2. Enter `RandomFab/claude-plugins` and confirm.
+3. Pick a plugin in the list and click **Install**.
+
+Turn on **Sync automatically** on the marketplace to get new versions by themselves. A plugin installed here also reaches Cowork, scheduled tasks and Claude Code.
+
+## Install in Claude Code
 
 Add the catalogue once:
 
@@ -27,9 +35,6 @@ Updates come through the catalogue: run `/plugin marketplace update randomfab` t
 | Plugin | What it does |
 | --- | --- |
 | [meal-planner](https://github.com/RandomFab/meal-planner) | Plans your household's meals in your own Notion: weekly menu, recipes from a photo or a link, shopping list by store, daily brief. |
-
-Using the Claude app instead of Claude Code? Each plugin's README explains how to install it there.
-
 ## License
 
 [MIT](LICENSE) © Fabien Bardouil
